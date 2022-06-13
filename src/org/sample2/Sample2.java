@@ -6,6 +6,8 @@ public class Sample2 {
 		System.out.println("kishor");
 		System.out.println("kishor ps");
 		System.out.println(12345);
+		System.out.println(23556);
+		System.out.println("looiokkmbm");
 		}
 	}
 
